@@ -7,13 +7,12 @@ To complete this coding challenge, I took the following steps:
 1. Created express server with four dependencies list below
 1. Add a single endpoint that fetches the data from firebase and returns it as JSON.
 
-````json
 {
   "express": "^4.16.4",
   "firebase": "^5.9.2",
   "firebase-admin": "^7.2.0",
   "opn": "^6.0.0"
-}```
+}
 
 To start the server run `yarn start`.
 
