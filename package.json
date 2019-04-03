@@ -1,0 +1,17 @@
+{
+  "name": "tocca",
+  "version": "1.0.0",
+  "description": "fetch data from firebase",
+  "main": "app.js",
+  "author": "Chad Hamre <chadhamre@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase": "^5.9.2",
+    "firebase-admin": "^7.2.0",
+    "opn": "^6.0.0"
+  }
+}
